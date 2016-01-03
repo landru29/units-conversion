@@ -1,6 +1,6 @@
 {
   "name": "units-conversion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert from one unit to another",
   "main": "dist/units-conversion.min.js",
   "scripts": {
